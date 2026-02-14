@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub Readme Stats placeholder">
+  <style>
+    .bg { fill: #1a1b27; }
+    .title { fill: #c0caf5; font: 600 16px "Segoe UI", Ubuntu, Sans-Serif; }
+    .text { fill: #9aa5ce; font: 400 13px "Segoe UI", Ubuntu, Sans-Serif; }
+    .mono { fill: #9aa5ce; font: 400 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="495" height="195" rx="6" />
+
+  <text class="title" x="24" y="44">GitHub Readme Stats</text>
+  <text class="text" x="24" y="76">Waiting for GitHub Actions to generate cards…</text>
+  <text class="text" x="24" y="102">Run: Actions → “Update README cards”</text>
+  <text class="mono" x="24" y="142">.github/workflows/grs.yml</text>
+</svg>
