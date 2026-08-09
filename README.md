@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" alt="GitHub Stats" src="./profile/stats.svg">
+  <img align="right" alt="GitHub Stats" src="https://raw.githubusercontent.com/aoguai/aoguai/refs/heads/main/profile/stats.svg">
 
   ### Hello 👋
 
