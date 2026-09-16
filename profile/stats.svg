@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">aoguai&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 5017, Total Commits  (last year) : 42, Total PRs: 264, Total Issues: 101, Contributed to (last year): 25</desc>
+        <desc id="descId">Total Stars Earned: 5037, Total Commits  (last year) : 42, Total PRs: 264, Total Issues: 101, Contributed to (last year): 25</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 42.93966078852706;
+        stroke-dashoffset: 42.936410619382364;
       }
     }
   
